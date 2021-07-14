@@ -1,0 +1,49 @@
+name: connectorph
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0<3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hexcolor: ^1.0.4
+  cupertino_icons: ^0.1.2
+  firebase_core: ^0.5.0
+  cloud_firestore: ^0.14.0+2
+  firebase_auth: ^0.18.0+1
+  modal_progress_hud: ^0.1.3
+  geolocator: ^6.0.0
+  geocoder: ^0.2.1
+  flutter_dialogflow: ^0.1.3
+  bubble: ^1.1.9+1
+  intl:
+  smooth_star_rating: 1.1.1
+  carousel_slider: ^2.3.1
+  url_launcher: ^5.7.2
+  maps_launcher: ^1.2.2+1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Architects
+      fonts:
+        - asset: fonts/ArchitectsDaughter-Regular.ttf
+    - family: ZillaSlab
+      fonts:
+        - asset: fonts/ZillaSlab-LightItalic.ttf
+    - family: Ub
+      fonts:
+        - asset: fonts/Ubuntu-Regular.ttf
+  assets:
+    - images/
+    - assets/

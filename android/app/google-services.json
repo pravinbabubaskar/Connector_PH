@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971235112070",
+    "firebase_url": "https://connectorph.firebaseio.com",
+    "project_id": "connectorph",
+    "storage_bucket": "connectorph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971235112070:android:887118856af5eb6be6cd07",
+        "android_client_info": {
+          "package_name": "com.srp.connectorph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971235112070-2o3q3d1a9paii2momp751qbpp2hcn2uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3AvtcpbHCIteksK-OQgeCHuibz3EW1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971235112070-2o3q3d1a9paii2momp751qbpp2hcn2uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
